@@ -3,8 +3,8 @@
 Plugin Name: cf7storedb
 Plugin URI: 
 Description: Just another contact form plugin. Simple but flexible.
-Author: Lorem ipsum
-Author URI: lorem ipsum
+Author: Ryan Pereira
+Author URI: https://github.com/pereiraryan/
 Text Domain: cf7storedb
 Domain Path: /languages/
 Version: 0.0.1
